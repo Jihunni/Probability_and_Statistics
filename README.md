@@ -1,5 +1,5 @@
 # Probability_and_Statistics
-
+- Spearman Rank Correlation in R [link](https://rpubs.com/aaronsc32/spearman-rank-correlation)
 # Statistics
 ## estimator
 ## Hypothesis testing
